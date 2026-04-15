@@ -1,0 +1,1 @@
+web: python LJ_Finance_Web.py
